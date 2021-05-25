@@ -1,0 +1,13 @@
+name: PGxG
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.6
+  - pytorch
+  - torchvision
+  - cpuonly
+  - pandas
+  - matplotlib
+prefix: /home/hnoghabi/anaconda3/envs/PGxG
+

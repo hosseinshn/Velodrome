@@ -15,6 +15,7 @@
 ## Requirements
 - Python 3
 - Conda
+- The bash scripts are for Slurm cluster environments.
 
 To get the source files of PGx Guidelines you need to clone into its repository:
 ```
@@ -39,6 +40,11 @@ All of the utilized datasets for Velodrome experiments are publicly available:
 ```
 https://zenodo.org/record/4793442#.YK1HVqhKiUk
 ``` 
+After downloading the datasets execute the following command in the main directory: 
+```
+mkdir Data
+```
+Then, move the downloaded datasets to this new directory. 
 
 # Experiments
 This section provides instructions to reproduce the reported experimnets.

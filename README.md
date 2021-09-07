@@ -1,5 +1,5 @@
 
-# Velodrome: Out-of-Distribution Generalization from Labeled and Unlabeled Gene Expression Data for Drug Response Prediction
+# Out-of-Distribution Generalization from Labeled and Unlabeled Gene Expression Data for Drug Response Prediction
 
 <img src="./Velodrome.png" width="900" class="center">
 

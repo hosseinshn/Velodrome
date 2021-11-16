@@ -115,11 +115,12 @@ sbatch rerun_velodrome.bs
 
 # Citation 
 ```
-@article{sharifi2021velodrome,
-  title={Out-of-Distribution Generalization from Labeled and Unlabeled Gene Expression Data for Drug Response Prediction},
+@article{sharifi2021out,
+  title={Out-of-distribution generalization from labelled and unlabelled gene expression data for drug response prediction},
   author={Sharifi-Noghabi, Hossein and Harjandi, Parsa Alamzadeh and Zolotareva, Olga and Collins, Colin C and Ester, Martin},
-  journal={bioRxiv},
+  journal={Nature Machine Intelligence},
+  pages={1--11},
   year={2021},
-  publisher={Cold Spring Harbor Laboratory}
+  publisher={Nature Publishing Group}
 }
 ```

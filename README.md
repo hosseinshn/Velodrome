@@ -108,7 +108,7 @@ sbatch Ablation_run_velodrome.bs
 To rerun velodrome experiments with 10 different random seed for the best model obtained via hyper-parameter tuning, use the filelist in `Velodrome Rerun` directory. 
 
 ## Velodrome Test
-To run the best performing Velodrome models for the additonal experiments, execute:  
+To run the best performing Velodrome models for the additional experiments, execute:  
 ```
 sbatch rerun_velodrome.bs
 ```
